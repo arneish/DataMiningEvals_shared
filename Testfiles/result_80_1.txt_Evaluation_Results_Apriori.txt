@@ -1,0 +1,1 @@
+RESULT FILE:./Testfiles/result_80_1.txt_Evaluation_Results_Apriori.txt
